@@ -13,4 +13,4 @@ Business Analytics professional with 5+ years of international experience, bridg
 ## Skills
 Power BI · Power Query · DAX Studio · Confluence · Power Automate · Data Visualization · Dashboard Design  
 
-📫 Reach me at [[LinkedIn](https://www.linkedin.com/in/nelsonbonilla26/)](#).
+📫 Reach me at https://www.linkedin.com/in/nelsonbonilla26/)(#).
